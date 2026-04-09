@@ -29,15 +29,6 @@ Regular customers receive **an additional 3% discount**.
 - Conditional statements
 - Input validation
 
-## How to Run
-
-Compile the program:
-
-g++ smartmart-billing.cpp
-
-Run the program:
-
-./a.out
 
 ## Author
 Syeda Fatima
